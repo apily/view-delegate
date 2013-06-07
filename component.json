@@ -1,0 +1,13 @@
+{
+  "name": "view-delegate",
+  "repo": "apily/view-delegate",
+  "version": "0.0.1",
+  "description": "delegate events plugin for view",
+  "keywords": ["view", "event", "delegate"],
+  "scripts": ["index.js"],
+  "dependencies": {
+    "enricomarino/element-delegate": "*"
+  },
+  "development": {},
+  "license": "MIT"
+}
